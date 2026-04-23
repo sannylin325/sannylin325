@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sannylin325
-- 👀 I got Master's Degree in Department of Law, National Taiwan University.
+- 👀 I got Master & Bachelor's Degree in Department of Law, National Taiwan University.
 - 🌱 I have been learning Python, C++, AI coding etc. ---Coding is very interesting!
 - 📫 I used to be a lawyer, and now I am a software engineer!
  
